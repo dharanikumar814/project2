@@ -1,0 +1,12 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.completed-task {
+    text-decoration: line-through;
+    color: #6c757d;
+}
+
+.list-group-item {
+    transition: background-color 0.2s ease;
+}
